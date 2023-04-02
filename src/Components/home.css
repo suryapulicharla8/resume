@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+}
+
+.home-one {
+    color: brown;
+    text-align: center;
+    text-shadow: 2px 3px gold;
+}
+.home-two {
+    color: blue;
+    text-shadow: 2px 1px gray;
+    text-align: center;
+}
